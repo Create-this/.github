@@ -5,7 +5,7 @@
 
 I'm solo dev, trying to build shit that just works. no fluff.
 
-**cursor, claude, vercel, cloudfare, supabase, stripe, | prefer: nextjs, typescript, tailwind, zod, prettier and some other bits and pieces**
+**cursor, claude, vercel, cloudfare, supabase, stripe - mostly nextjs, typescript, tailwind, zod, prettier**
 
-current project TypeScript MCP on Node.js, driven by Zod schemas and contract-first tool execution
+current project: TypeScript MCP on Node.js, driven by Zod schemas and contract-first tool execution
 
