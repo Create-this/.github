@@ -1,6 +1,6 @@
 ## Top of the mornin to ya
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=kung.fu.magic&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=rect&height=200&text=K.F.M&fontSize=70&fontColor=e6edf3&fontAlignY=50&color=0:0d1117,100:161b22)
 
 
 I'm solo dev, trying to build shit that just works. no fluff.
